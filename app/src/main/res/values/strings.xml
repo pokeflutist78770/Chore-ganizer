@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"> Chore-ganizer</string>
+    <string name="User">Log In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="nextButton">Next</string>
+    <string name="emailHint">Email</string>
+    <string name="phoneHint">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="logoActionBar">LOG IN</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="confirmPass">Confirm Password</string>
+    <string name="adult">Parent</string>
+    <string name="makeEvent">Schedule Event</string>
+    <string name="sendMessage">Send Message</string>
+</resources>

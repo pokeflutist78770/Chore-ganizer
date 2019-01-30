@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "483456484680",
+    "firebase_url": "https://chore-ganizer.firebaseio.com",
+    "project_id": "chore-ganizer",
+    "storage_bucket": "chore-ganizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483456484680:android:a0ededfe2720643f",
+        "android_client_info": {
+          "package_name": "com.example.aagua.hackaz2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483456484680-moklkl164bcdjn6vs04dgn1aa7e1r7q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNc0t4jbzN2pI8FlcoSKHlMvd9d70bNPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
