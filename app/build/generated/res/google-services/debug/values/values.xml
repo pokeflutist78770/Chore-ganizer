@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">483456484680-moklkl164bcdjn6vs04dgn1aa7e1r7q3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://chore-ganizer.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">483456484680</string>
+    <string name="google_api_key" translatable="false">AIzaSyCNc0t4jbzN2pI8FlcoSKHlMvd9d70bNPc</string>
+    <string name="google_app_id" translatable="false">1:483456484680:android:a0ededfe2720643f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCNc0t4jbzN2pI8FlcoSKHlMvd9d70bNPc</string>
+    <string name="google_storage_bucket" translatable="false">chore-ganizer.appspot.com</string>
+    <string name="project_id" translatable="false">chore-ganizer</string>
+</resources>
